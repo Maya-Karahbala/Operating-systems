@@ -1,0 +1,22 @@
+#-*-MakeFile -*-
+CC = gcc
+CFLAGS = -c -wall
+
+all: div rakam mul myshell
+
+
+div: div.c
+	$(CC) div.c -o div
+
+rakam: rakam.c
+	$(CC) rakam.c -o rakam
+
+mul: mul.c
+	$(CC) mul.c -o mul
+
+myshell: myshell.c
+	$(CC) myshell.c -o myshell
+
+clean:
+	rm -rf *o all
+
