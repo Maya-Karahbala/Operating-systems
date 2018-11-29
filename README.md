@@ -1,2 +1,2 @@
 operating-systems
-proje 1 : Linux Shell Yazımı
+<p> 1 : Linux Shell Yazımı </p>
