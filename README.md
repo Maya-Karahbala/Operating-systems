@@ -10,7 +10,7 @@
 <p >communication between tow seperated programs</p>
 <h2>3-Thread Synchronization</h2>
 <p>Adding operation 
-communication between tow seperated programs and using threads <br>
+based on communication between tow seperated programs and using threads <br>
 
 
 </body>
